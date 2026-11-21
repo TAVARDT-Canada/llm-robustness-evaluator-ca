@@ -35,8 +35,6 @@ Access the interactive tool directly:
 
 🌐 **[https://tavardt-canada.github.io/llm-robustness-evaluator-ca/](https://tavardt-canada.github.io/llm-robustness-evaluator-ca/)**
 
-🛠 **[https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)**
-
 ---
 
 ## CLI Usage
